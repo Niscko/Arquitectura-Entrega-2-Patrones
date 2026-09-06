@@ -1,0 +1,12 @@
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/bin/Debug/net8.0/Bib_Hacienda.dll.config
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/bin/Debug/net8.0/Bib_Hacienda.deps.json
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/bin/Debug/net8.0/Bib_Hacienda.dll
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/bin/Debug/net8.0/Bib_Hacienda.pdb
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/Bib_Hacienda.csproj.AssemblyReference.cache
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/Bib_Hacienda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/Bib_Hacienda.csproj.CoreCompileInputs.cache
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/Bib_Hacienda.sourcelink.json
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/Bib_Hacienda.dll
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/refint/Bib_Hacienda.dll
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/Bib_Hacienda.pdb
+/Users/niscko/Desktop/ArquitecturaSoftwareEvaluacion1/03-src/FinalParadigmasDefinitivo/Bib_Hacienda/Bib_Hacienda/obj/Debug/net8.0/ref/Bib_Hacienda.dll
